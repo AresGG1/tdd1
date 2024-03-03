@@ -1,0 +1,17 @@
+{
+    "name": "taras/lab1",
+    "autoload": {
+        "psr-4": {
+            "Taras\\Lab1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Taras",
+            "email": "taraswestgoter@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    }
+}
